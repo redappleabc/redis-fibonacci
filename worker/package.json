@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "nodemon": "^2.0.13",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node index.ts",
+    "dev": "nodemon"
+  }
+}
